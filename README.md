@@ -77,7 +77,7 @@ Langkah-langkah:
    
    ![Screenshot 2024-09-03 090330](https://github.com/user-attachments/assets/e04d13ae-627c-4a96-8ff5-dbb22c7e1400)
    ![Screenshot 2024-09-03 090341](https://github.com/user-attachments/assets/c223d8c5-7eb1-4bf5-905d-66bc4a79f7f1)
-   ![Screenshot 20![Screenshot 2024-09-03 090402](https://github.com/user-attachments/assets/195e24a1-e028-4fff-aa82-3dd9fe2f0547)
+   ![Screenshot 2024-09-03 090354](https://github.com/user-attachments/assets/f50c1d9f-c22d-49de-bde4-8bce4170f319)
    ![Screenshot 2024-09-03 090402](https://github.com/user-attachments/assets/ad996647-8004-45f7-853c-4701bcc5ad4d)
 23. installasi ubuntu linux selesai
    
