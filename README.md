@@ -48,8 +48,20 @@ Langkah-langkah:
 13. pilih "interactive installation" dan klik "next"
 
    ![Screenshot 2024-09-03 084045](https://github.com/user-attachments/assets/4d908a4a-9f31-4237-bf4c-66123f7c2b6f)
-14. piilih "default section" dna klik "next"
+14. pilih "default section" dna klik "next"
+
    ![Screenshot 2024-09-03 084056](https://github.com/user-attachments/assets/9188a0c7-5609-401f-9b07-c673d4607e2c)
+15. centang kedua opsi yang ada kemudian klik "next"
+   
+   ![Screenshot 2024-09-03 084140](https://github.com/user-attachments/assets/1676cde6-d23a-4155-ac03-b631f184a5a4)
+16. pilih "erase disk and install ubuntu"
+   
+   ![Screenshot 2024-09-03 084200](https://github.com/user-attachments/assets/25b5bb5f-4b4b-4234-ab43-42627925869b)
+17. masukan nama, nama komputer, username, dan password 
+
+   ![Screenshot 2024-09-03 084249](https://github.com/user-attachments/assets/f361428c-b5db-4e80-ac23-c7ea4305b4b2)
+
+   
 
     
 
