@@ -1,8 +1,8 @@
 # TUGAS-Praktikum-Sistem-Operasi-1
 ---
-Nama: Gilbert Ciady
-NIM: 09011182328005
-Kelas: SK3B
+- Nama: Gilbert Ciady
+- NIM: 09011182328005
+- Kelas: SK3B
 
 ## Instalasi Linux Ubuntu Menggunakan Virtual Box
 Langkah-langkah:
@@ -88,16 +88,22 @@ Langkah-langkah:
 
 ## Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32, btrfs!
    1. ext4
+      
 ext4 atau fourth extended filesystem merupakan sistem berkas journaling yang merupakan penerus dari generasi sebelumnya yaitu ext3. ext4 menawarkan peningkatan kinerja dan kompatibilitas disk yang bisa mendukung hingga 16 terabyte file dan kapasitas partisi hingga 1 exabyte.
-   2. ext3
+   3. ext3
+      
 ext3 atau third extended filesystem merupakan sistem bekas journaling yang merupakan penerus dari generasi awal ext yaitu ext2. ext3 menawarkan peningkatan performa, kestabilan, serta perlindungan data yang lebih aman dan efisien karena tidak perlu pengecekan kekonsistenan data yang dapat memakan waktu yang lama.
-   3. swap
+   4. swap
+      
 swap merupakan ruang pada disk yang akan dijadikan sebagai memori virtual (virtual ram) yang digunakan ketika komputer atau laptop memerlukan lebih banyak memori (ram). swap akan menyimpan data-data yang jarang diakses di ram dan ketika diperlukan data di swap akan berpindah ke ram dan akan berganti posisi dengan data lain yang juga jarang diakses
-   4. ntfs
+   5. ntfs
+      
 ntfs atau new technology filesystem merupakan sistem berkas yang digunakan di sistem operasi windows yang ada sejak windows NT 3.1 di tahun 1993 dan baru umum di era windows XP di tahun 2001. ntfs berkembang menjadi lebih aman, stabil, dan performa yang lebih unggul jika dibandingkan fat32.
-   5. fat32
+   6. fat32
+
 fat32 atau file allocation table 32-bit merupakan sistem berkas file yang ada sejak era windows 95 di tahun 1995 yang menggantikan fat16. fat32 memiliki keunggulan dimana kompatibilitasnya yang sangat luas. fat32 sekarang masih digunakan seperti di flash drive.
-   6. btrfs
+   7. btrfs
+      
 btrfs atau B-Tree filesystem merupakan sistem berkas modern yang berbasis copy on write, menawarkan untuk mengatasi keterbatasan sistem berkas tradisional dan fitur yang canggih. btrfs telah dikembangkan dari 2007 dan masih aktif pengembangannya hingga sekarang.
 
    
