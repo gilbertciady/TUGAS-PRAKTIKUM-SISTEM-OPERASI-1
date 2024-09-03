@@ -44,3 +44,12 @@ Langkah-langkah:
 
 12. klik "skip"
     
+    ![Screenshot 2024-09-03 083954](https://github.com/user-attachments/assets/dfb0d666-6c76-423f-a64b-082d1f3d33dc)
+13. pilih "interactive installation" dan klik "next"
+
+   ![Screenshot 2024-09-03 084045](https://github.com/user-attachments/assets/4d908a4a-9f31-4237-bf4c-66123f7c2b6f)
+14. piilih "default section" dna klik "next"
+   ![Screenshot 2024-09-03 084056](https://github.com/user-attachments/assets/9188a0c7-5609-401f-9b07-c673d4607e2c)
+
+    
+
