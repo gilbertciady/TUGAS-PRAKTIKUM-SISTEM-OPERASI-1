@@ -60,7 +60,51 @@ Langkah-langkah:
 17. masukan nama, nama komputer, username, dan password 
 
    ![Screenshot 2024-09-03 084249](https://github.com/user-attachments/assets/f361428c-b5db-4e80-ac23-c7ea4305b4b2)
+18. pilih kota sesuai tempat tinggal
+   
+   ![Screenshot 2024-09-03 084449](https://github.com/user-attachments/assets/41a86704-0af5-46f4-8626-23c76b76a729)
+19. setelah itu klik install
+   
+   ![Screenshot 2024-09-03 084529](https://github.com/user-attachments/assets/f07a37a0-fbd4-4dd3-8229-44cf7e9922f2)
+20. tunggu proses installasi selesai kemudian klik "restart now"
+   
+   ![Screenshot 2024-09-03 084541](https://github.com/user-attachments/assets/de2162fb-4c86-4409-a2d4-8c48d3a9d3d9)
+   ![Screenshot 2024-09-03 085927](https://github.com/user-attachments/assets/73640459-9d01-4afd-8f8e-4b2474246a7a)
+21. setelah itu login menggunakan password yang tadi telah dimasukan
+   
+   ![Screenshot 2024-09-03 090203](https://github.com/user-attachments/assets/4e4d925d-59ba-4569-b690-af01cf9bf44f)
+22. kemudian klik "next" hingga tulisan berubah menjadi "finish"
+   
+   ![Screenshot 2024-09-03 090330](https://github.com/user-attachments/assets/e04d13ae-627c-4a96-8ff5-dbb22c7e1400)
+   ![Screenshot 2024-09-03 090341](https://github.com/user-attachments/assets/c223d8c5-7eb1-4bf5-905d-66bc4a79f7f1)
+   ![Screenshot 20![Screenshot 2024-09-03 090402](https://github.com/user-attachments/assets/195e24a1-e028-4fff-aa82-3dd9fe2f0547)
+24-09-03 090354](https://github.com/user-attachments/assets/a9f72b68-b251-47b1-a331-6016a7988c8d)
+23. installasi ubuntu linux selesai
+   
+   ![Screenshot 2024-09-03 090415](https://github.com/user-attachments/assets/29cf34dd-da1d-474d-89aa-8cf1094b18ab)
 
+## Analisislah kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point
+   Karena tanda "/" menunjukan bahwa itu merupakan root atau akar dari partisi, seluruh data di sistem ubuntu Linux akan berada di bawah partisi root, ini mirip seperti pada sistem operasi Windows yaitu drive C: sebagai rootnya.
+
+## Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32, btrfs!
+   1. ext4
+ext4 atau fourth extended filesystem merupakan sistem berkas journaling yang merupakan penerus dari generasi sebelumnya yaitu ext3. ext4 menawarkan peningkatan kinerja dan kompatibilitas disk yang bisa mendukung hingga 16 terabyte file dan kapasitas partisi hingga 1 exabyte.
+   2. ext3
+ext3 atau third extended filesystem merupakan sistem bekas journaling yang merupakan penerus dari generasi awal ext yaitu ext2. ext3 menawarkan peningkatan performa, kestabilan, serta perlindungan data yang lebih aman dan efisien karena tidak perlu pengecekan kekonsistenan data yang dapat memakan waktu yang lama.
+   3. swap
+swap merupakan ruang pada disk yang akan dijadikan sebagai memori virtual (virtual ram) yang digunakan ketika komputer atau laptop memerlukan lebih banyak memori (ram). swap akan menyimpan data-data yang jarang diakses di ram dan ketika diperlukan data di swap akan berpindah ke ram dan akan berganti posisi dengan data lain yang juga jarang diakses
+   4. ntfs
+ntfs atau new technology filesystem merupakan sistem berkas yang digunakan di sistem operasi windows yang ada sejak windows NT 3.1 di tahun 1993 dan baru umum di era windows XP di tahun 2001. ntfs berkembang menjadi lebih aman, stabil, dan performa yang lebih unggul jika dibandingkan fat32.
+   5. fat32
+fat32 atau file allocation table 32-bit merupakan sistem berkas file yang ada sejak era windows 95 di tahun 1995 yang menggantikan fat16. fat32 memiliki keunggulan dimana kompatibilitasnya yang sangat luas. fat32 sekarang masih digunakan seperti di flash drive.
+   6. btrfs
+btrfs atau B-Tree filesystem merupakan sistem berkas modern yang berbasis copy on write, menawarkan untuk mengatasi keterbatasan sistem berkas tradisional dan fitur yang canggih. btrfs telah dikembangkan dari 2007 dan masih aktif pengembangannya hingga sekarang.
+
+   
+   
+
+   
+   
    
 
     
